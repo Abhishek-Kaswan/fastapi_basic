@@ -6,7 +6,7 @@ class Settings(BaseSettings):
     # DATABASE_PASSWORD: str
     # DATABASE_NAME: str
     # DATABASE_USERNAME: str
-    SECRET_KEY: str = = "kkfkjkj"
+    SECRET_KEY: str = "kkfkjkj"
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
     
